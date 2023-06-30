@@ -8,9 +8,8 @@ I'm a passionate and highly driven individual with expertise in reinforcement le
 
 🤝 I'm always eager to collaborate with like-minded individuals, working together to change the game and push the boundaries of what's possible. If you're up for tackling complex challenges head-on, let's connect and make a difference!
 
-🌐 Check out my personal website for more details and to explore my portfolio: [www.mostafaghaith.com](https://www.mostafaghaith.com)
+🌐 Check out my linkedin profile: [Mostafa Ghaith] linkedin.com/in/mostafa-ghaith/
 
-📫 Feel free to reach out to me at [email protected] Let's connect and embark on an exciting journey together!
 
 
 
