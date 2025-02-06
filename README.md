@@ -1,4 +1,4 @@
-### Hi there, I'm Mostafa Ghaith! 👋  
+# Hi there, I'm Mostafa Ghaith! 👋  
 
 🤖 **AI Engineer** | 🏗️ **LLMs & RAG Specialist** | 🔍 **Vector Databases** | 🚀 **AI Agents & Fine-Tuning Enthusiast**  
 
