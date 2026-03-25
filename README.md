@@ -1,54 +1,96 @@
-### Hi there, I'm Mostafa Ghaith 👋
+<div align="center">
 
-I am an AI Engineer dedicated to building production-ready systems with LLMs, multi-agent architectures, and scalable AI infrastructure. My specialization lies in deploying generative AI applications that address real-world challenges, ranging from autonomous agents to retrieval-augmented generation pipelines. With a background in AI research, including a Master of Science in multi-agent deep reinforcement learning, I have a passion for both constructing robust production systems and exploring the capabilities of cutting-edge models.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Senior+AI+Engineer;Agentic+Systems+%7C+LLM+Infrastructure;Streaming+Architectures+%7C+Production+Deployments" alt="Typing SVG" />
 
----
-
-### Tech Stack
-
-**AI/ML Frameworks:**
-<img src="https://img.shields.io/badge/PyTorch-6B7A8F?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-818AA3?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Hugging%20Face-9AA5B8?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
-<img src="https://img.shields.io/badge/LangChain-6B7A8F?style=flat&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/LlamaIndex-818AA3?style=flat&logo=llama&logoColor=white" alt="LlamaIndex">
-
-**Agent Orchestration:**
-<img src="https://img.shields.io/badge/LangGraph-84A98C?style=flat&logo=langchain&logoColor=white" alt="LangGraph">
-<img src="https://img.shields.io/badge/CrewAI-95B59A?style=flat&logo=crewai&logoColor=white" alt="CrewAI">
-<img src="https://img.shields.io/badge/SmolAgents-A5C8A1?style=flat&logo=huggingface&logoColor=white" alt="SmolAgents">
-<img src="https://img.shields.io/badge/AutoGen-B5D5B8?style=flat&logo=microsoft&logoColor=white" alt="AutoGen">
-
-**LLM Platforms:**
-<img src="https://img.shields.io/badge/OpenAI-C2B280?style=flat&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Anthropic-D2B48C?style=flat&logo=anthropic&logoColor=white" alt="Anthropic">
-<img src="https://img.shields.io/badge/Gemini-E1C698?style=flat&logo=google&logoColor=black" alt="Gemini">
-
-**Vector Databases:**
-<img src="https://img.shields.io/badge/Qdrant-E07A5F?style=flat&logo=qdrant&logoColor=white" alt="Qdrant">
-<img src="https://img.shields.io/badge/Weaviate-E58C74?style=flat&logo=weaviate&logoColor=white" alt="Weaviate">
-<img src="https://img.shields.io/badge/Pinecone-F28482?style=flat&logo=pinecone&logoColor=white" alt="Pinecone">
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-F79D9C?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Atlas">
-
-**Backend & Databases:**
-<img src="https://img.shields.io/badge/Python-6B7A8F?style=flat&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-818AA3?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/PostgreSQL-9AA5B8?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Redis-B0BAC8?style=flat&logo=redis&logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/RabbitMQ-6B7A8F?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-
-**DevOps & Cloud:**
-<img src="https://img.shields.io/badge/Docker-84A98C?style=flat&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-C2B280?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/GCP-E07A5F?style=flat&logo=googlecloud&logoColor=white" alt="GCP">
-<img src="https://img.shields.io/badge/GitLab-818AA3?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
-<img src="https://img.shields.io/badge/Grafana-95B59A?style=flat&logo=grafana&logoColor=white" alt="Grafana">
+</div>
 
 ---
 
-### Let's Connect
+## Mostafa Ghaith
 
-I am interested in LLM applications, AI infrastructure, and production ML systems. I am always open to engaging in interesting discussions and exploring potential collaborations.
+Senior AI Engineer with a focus on production-grade agentic systems, LLM infrastructure, and scalable deployment architectures. I design and ship end-to-end AI platforms — from multi-agent orchestration and real-time streaming to cloud-native deployments and system design — across large enterprise environments.
 
-**LinkedIn:** [mostafa-ghaith](https://www.linkedin.com/in/mostafa-ghaith)
-**Email:** mostafaghaith96@gmail.com
+M.Sc. in Multi-Agent Deep Reinforcement Learning. Currently leading AI engineering at a major corporation, building autonomous systems that operate at scale.
+
+&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-ghaith)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafaghaith96@gmail.com)
+
+---
+
+## Core Competencies
+
+```
+Agentic Workflows          Multi-agent orchestration, ReAct patterns, tool-use, state machines, Redis Streams
+LLM Infrastructure         Fine-tuning, prompt engineering, context management, caching strategies
+Streaming Architectures    SSE, WebSockets, real-time agent thought streaming, async pipelines
+System Design              Distributed task queues, event-driven systems, API gateway patterns
+Production Deployments     Docker, AWS, GCP, CI/CD, containerization, async Python services
+Observability              Structured logging, tracing, observability tools, LLM eval pipelines
+```
+
+---
+
+## Tech Stack
+
+**Agent Orchestration**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**LLM Providers & Interfaces**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**AI/ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
+
+**Observability & Analytics**
+
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat-square&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Vector Stores**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-B9C846?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_(hiredis_·_Streams_·_Pub%2FSub)-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+<div align="center">
+
+Open to conversations about agentic infrastructure, LLMOps, and production AI system design.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-ghaith)
+
+</div>
